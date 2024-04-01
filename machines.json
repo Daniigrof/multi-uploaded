@@ -1,8 +1,20 @@
 [
     {
-        "hostname":"c2sjoc-zabbix",
+        "hostname":"zabbix-monitor",
         "ip":"10.0.133.31",
-        "username":"cix_user",
-        "password":"Elbit-1"
+        "username":"user",
+        "password":"pass"
+    },
+    {
+        "hostname":"Client",
+        "ip":"10.0.133.30",
+        "username":"root",
+        "password":"password"
+    },
+    {
+        "hostname":"myDB",
+        "ip":"10.0.133.33",
+        "username":"my-username",
+        "password":"my-password"
     }
 ]
